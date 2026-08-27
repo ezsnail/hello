@@ -2,7 +2,7 @@
  * Author: Evan Zhang
  * Date: 2026/08/27
  *
- * A program that prints my name.
+ * A program that prints my name and major.
  *
  */
 #include <stdlib.h>
